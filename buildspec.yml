@@ -4,8 +4,8 @@ phases:
   build:
     commands:
     - echo Nothing
-  artifacts:
-    - index.html
-    - favicon.ico
-    - styles/*
-    - images/*
+artifacts:
+  - index.html
+  - favicon.ico
+  - styles/*
+  - images/*
