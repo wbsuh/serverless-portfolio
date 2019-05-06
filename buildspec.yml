@@ -5,7 +5,8 @@ phases:
     commands:
     - echo Nothing
 artifacts:
-  - index.html
-  - favicon.ico
-  - styles/*
-  - images/*
+  files:
+    - index.html
+    - favicon.ico
+    - styles/*
+    - images/*
