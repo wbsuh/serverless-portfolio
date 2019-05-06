@@ -1,2 +1,3 @@
-# serverless-portfolio
-Hands on Labs Using AWS Serverless stack
+# AWS Serverless Hands-on Lab
+
+Using AWS and ReactJS Lab based of A Cloud Guru 
